@@ -1,1 +1,1 @@
-#Simple media player created with using native JS.
+# Simple media player created with using native JS.
